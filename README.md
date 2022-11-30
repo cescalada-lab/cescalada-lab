@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christian Escalada.
 - 🤓 I'm Industrial Engineer.
-- 😍 I love Python, R & Octave.
+- 😍 I love Python, R & Tableau.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning: Deep Learning.
 - 💞️ I’m looking to collaborate on: solving ML & DL problems.
